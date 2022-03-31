@@ -1,5 +1,12 @@
 .page {
 	max-width: 500px;
 	margin: 0 auto;
-	
+}
+
+h1 {
+	font-size: 5vw;
+}
+
+p,a,li {
+	font-size: 1.5vw;
 }

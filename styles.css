@@ -10,3 +10,20 @@ h1 {
 p,a,li {
 	font-size: 1.5vw;
 }
+
+@media only screen and (max-width: 400px) {
+  h1 {
+	  font-size: 10vw;
+  }
+  
+  .page {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 10px;
+}
+  
+  
+  p, a, li {
+	  font-size: 5vw;
+  }
+}

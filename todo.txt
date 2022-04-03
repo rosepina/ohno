@@ -1,0 +1,4 @@
+- fix responsiveness on mobile
+	- text is too small
+	- text doesn't wrap
+	

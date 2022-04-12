@@ -11,7 +11,7 @@ p,a,li {
 	font-size: 1.5vw;
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 400px) {
   h1 {
 	  font-size: 10vw;
   }
